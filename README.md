@@ -2,6 +2,11 @@
 💻 Hello World! Eu sou a Brígida
 </h1>
 
+<p align="center">
+  <!-- GIF animado de programador -->
+  <img src="https://media.giphy.com/media/l3q2IpFJ2F5zK04vC/giphy.gif" width="300" alt="Dev GIF"/>
+</p>
+
 ---
 
 ### 🌟 Sobre mim
@@ -42,30 +47,6 @@
 
 ---
 
-### 🍕 Linguagens Mais Usadas
-<p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'doughnut',
-    data:{
-      labels:['Python','JavaScript','HTML','C++'],
-      datasets:[{
-        data:[20,30,40,10],
-        backgroundColor:['#3776AB','#F7DF1E','#E34F26','#00599C'],
-        borderColor:'#0f0f1f',
-        borderWidth:3
-      }]
-    },
-    options:{
-      plugins:{
-        legend:{position:'bottom',labels:{color:'#00FF00',font:{size:16}}},
-        title:{display:true,text:'Minhas Linguagens Mais Usadas',color:'#00FF00',font:{size:20}}
-      }
-    }
-  }" width="400"/>
-</p>
-
----
-
 ### 💬 Conecte-se comigo
 <p align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/br%C3%ADgida-uaissone-a98568367/)
@@ -76,3 +57,4 @@
 <p align="center" style="color:#00FF00; font-family:'Courier New', monospace;">
 &lt;-De código para solução-&gt; | Criado por Bibi1402
 </p>
+
